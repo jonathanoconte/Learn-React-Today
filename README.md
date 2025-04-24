@@ -422,5 +422,5 @@ Stretch: Add animations or drag-and-drop
 ---
 
 
-Let me know if you want this exported again as PDF!
+Done
 
