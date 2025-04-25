@@ -17,7 +17,7 @@ Every day includes: topic study, task(s), and a mini project
 WEEK 1: JavaScript + React Core Concepts
 
 
-Day 1: ES6+ Syntax (DONE)
+Day 1: ES6+ Syntax
 Learn: let, const, arrow functions, template literals, destructuring
 Tasks:
 Convert regular functions to arrow functions
@@ -26,7 +26,7 @@ Mini Project: Display a "User Card" using destructuring
 
 
 
-Day 2: Array Methods (DONE)
+Day 2: Array Methods
 Learn: .map(), .filter(), .reduce(), .find()
 Tasks:
 Create an array of users and use all methods
